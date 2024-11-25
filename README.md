@@ -1,1 +1,1 @@
-This project is a recipes project for nachos. code
+This project is a recipes project for nachos.
